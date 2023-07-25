@@ -11,8 +11,8 @@ const MediaSection = () => {
           Choose the type of media you liked
         </h2>
         <p className="text-gray">
-          We present many media from various main categories, let's choose and
-          search media you liked.
+          We present many media from various main categories, let&apos;s choose
+          and search media you liked.
         </p>
       </header>
       <section className="mt-8">

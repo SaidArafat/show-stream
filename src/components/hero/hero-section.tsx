@@ -7,7 +7,7 @@ const HeroSection = () => {
     <section className="hero py-8 flex flex-col items-center justify-center h-[90vh] text-center space-y-6">
       <header>
         <h1 className="font-bold text-4xl md:text-5xl capitalize">
-          Let's make your own stream
+          Let&apos;s make your own stream
         </h1>
       </header>
       <div>
